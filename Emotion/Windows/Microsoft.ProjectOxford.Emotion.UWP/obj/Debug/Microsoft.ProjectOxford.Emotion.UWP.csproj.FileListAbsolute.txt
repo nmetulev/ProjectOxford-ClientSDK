@@ -1,0 +1,16 @@
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\bin\Debug\Microsoft.ProjectOxford.Emotion.UWP.dll
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\bin\Debug\Microsoft.ProjectOxford.Emotion.UWP.pdb
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\bin\Debug\Microsoft.ProjectOxford.Emotion.UWP.pri
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\Microsoft.ProjectOxford.Emotion.UWP.dll
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\Microsoft.ProjectOxford.Emotion.UWP.pdb
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\priconfig.xml
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\layout.resfiles
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\resources.resfiles
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\pri.resfiles
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\qualifiers.txt
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Nikola\Source\ProjectOxford-ClientSDK\Emotion\Windows\Microsoft.ProjectOxford.Emotion.UWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
